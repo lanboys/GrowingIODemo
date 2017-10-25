@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'com.growingio.android'
 
 android {
     compileSdkVersion 26
@@ -10,6 +11,9 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        resValue("string", "growingio_project_id", "b393b2a912df7e07")
+        resValue("string", "growingio_url_scheme", "growing.d5a12a88092e6a39")
     }
     buildTypes {
         release {
@@ -28,4 +32,6 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:design:26.+'
     testCompile 'junit:junit:4.12'
+
+    compile 'com.growingio.android:vds-android-agent:1.1.1@aar'
 }
