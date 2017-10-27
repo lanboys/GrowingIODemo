@@ -26,28 +26,28 @@
             android:id="@+id/button01"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button01"/>
 
         <Button
             android:id="@+id/button02"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button02"/>
         <Button
             android:id="@+id/button03"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button03"/>
         <Button
             android:id="@+id/button04"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button04"/>
         <Button
             android:id="@+id/button05"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button05"/>
         <ImageView
             android:id="@+id/imageView0"
             android:layout_width="match_parent"
@@ -57,12 +57,12 @@
             android:id="@+id/toggleButton0"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="ToggleButton"/>
+            android:text="ToggleButton0"/>
         <CheckBox
             android:id="@+id/checkBox0"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="CheckBox"/>
+            android:text="CheckBox0"/>
     </LinearLayout>
 
     <LinearLayout
@@ -81,28 +81,28 @@
             android:id="@+id/button1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button1"/>
 
         <Button
             android:id="@+id/button2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button2"/>
         <Button
             android:id="@+id/button3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button3"/>
         <Button
             android:id="@+id/button4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button4"/>
         <Button
             android:id="@+id/button5"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Button"/>
+            android:text="Button5"/>
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="match_parent"
